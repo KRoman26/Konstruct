@@ -555,6 +555,12 @@ padding-top: 20px;
 .social a{
   color: white;
 }
+.social :hover {
+  color: var(--accent-color);
+}
+.link :hover {
+  color: var(--accent-color);
+}
 .autor {
   min-height: 60px;
   background-color: #171819;
